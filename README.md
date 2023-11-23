@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=shashperera&show_icons=true&theme=transparent" width="400"> -->
+<!-- img src="https://github-readme-stats.vercel.app/api?username=shashperera&show_icons=true&theme=transparent" width="400" -->
 
 ![snake gif](https://github.com/shashperera/shashperera/blob/output/github-contribution-grid-snake.svg)
 
