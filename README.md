@@ -8,10 +8,10 @@
 ### Find me all around the web:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sanduni-shashipraba-perera-30723a16a/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a href="https://hackathongoddess.wordpress.com/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
-<a href="https://www.researchgate.net/profile/W-Sanduni-Shashipraba-Perera" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/researchgate.png" alt="" height="30" /></a>
-<a href="https://medium.com/@shashipraba.56" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/medium.png" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/sanduni-shashipraba-perera-30723a16a/" target="blank"><img align="center" src="https://github.com/shashperera/shashperera/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="https://hackathongoddess.wordpress.com/" target="blank"><img align="center" src="https://github.com/shashperera/shashperera/blob/master/socials/chrome.png" alt="" height="30" /></a>
+<a href="https://www.researchgate.net/profile/W-Sanduni-Shashipraba-Perera" target="blank"><img align="center" src="https://github.com/shashperera/shashperera/blob/master/socials/researchgate.png" alt="" height="30" /></a>
+<a href="https://medium.com/@shashipraba.56" target="blank"><img align="center" src="https://github.com/shashperera/shashperera/blob/master/socials/medium.png" alt="" height="30" /></a>
 </p> 
 <!--
 **shashperera/shashperera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
