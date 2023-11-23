@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi Moi <img width="30px" src="https://github.com/shashperera/shashperera/blob/master/socials/gifs/hi.gif">, I'm <a href="https://arsh.dev"> Sanduni Perera </a><i>aka <del>Shashi</i></del></h1>
 
-👋 Hei! I'm Sanduni Perera a Software Engineering gradute and worked in the academia for about 3 years. I love delving into research, especially in the realms of Machine Learning,Computer Vision, etc. particularly in the areas of Human and Animal Health. If there are opportunities to explore these intersections, count me in! \
+👋 Hei! I'm Sanduni Perera a Software Engineering gradute and worked as a software engineer trainee, lecturer for about 4+ years. I love delving into research, especially in the realms of Machine Learning,Computer Vision, etc. particularly in the areas of Human and Animal Health. If there are opportunities to explore these intersections, count me in! \
 🔭 I’m currently working on refreshing my programming knowledge, acquiring new skills, and writing tech articles.I'm always open to new opportunities, collaborations, and networking. Let's collaborate to solve problems in the real world and see how we can use technology to spur innovation.
 
 
