@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=shashperera&show_icons=true&theme=transparent" width="400">
 
-![snake gif](https://github.com/shashperera/shashperera/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/shashperera/shashperera/blob/output/github-contribution-grid-snake.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
