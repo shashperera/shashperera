@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shashperera" alt="arshsahzad"/></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shashperera" alt="shashperera"/></p>
 
 <h1 align="center"> Hi Moi <img width="30px" src="https://github.com/shashperera/shashperera/blob/master/socials/gifs/hi.gif">, I'm <a href="https://arsh.dev"> Sanduni Perera </a><i>aka <del>Shashi</i></del></h1>
 
