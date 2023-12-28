@@ -3,8 +3,8 @@
 <h1 align="center"> Hi Moi <img width="30px" src="https://github.com/shashperera/shashperera/blob/master/socials/gifs/hi.gif">, I'm <a href="https://arsh.dev"> Sanduni Perera </a><i>aka <del>Shashi</i></del></h1>
 <p align="center"><img align="center" src="https://github.com/shashperera/shashperera/assets/40666122/408d9c72-d6b9-42d3-8d57-1cc6b71160f9" width="500"/></p>
 
-👋 Hei! I'm a Software Engineering gradute and worked as a software engineer trainee and a university lecturer for about 4+ years. I love delving into research, in the realms of Machine Learning,Computer Vision, etc. particularly in the areas of Human and Animal Health. If there are opportunities to explore these intersections, count me in! \
-🔭 I’m currently working on refreshing my programming knowledge, acquiring new skills, and writing tech articles. I'm always open to new opportunities, collaborations, and networking. Let's collaborate to solve problems in the real world and see how we can use technology to spur innovation.
+👋 Hey, I'm Sanduni Perera, a frontend/full-stack developer based in Helsinki. I've got 5+ years of experience in software engineering, holding an MSc in Information Technology and a BSc(Hons) in Software Engineering. I'm passionate about software development and exploring the intersections of technology with Human and Animal Health. Recently, I've been updating my skills, writing articles, and I'm all about continuous improvement.
+Open to new opportunities and collaborations. Let's connect on GitHub and explore how we can use tech to solve real-world problems and innovate together! 👩‍💻🚀
 
 
 <!--img src="https://github-readme-stats.vercel.app/api?username=shashperera&show_icons=true&theme=transparent" width="400"-->
