@@ -3,7 +3,7 @@
 <h1 align="center"> Hi Moi <img width="30px" src="https://github.com/shashperera/shashperera/blob/master/socials/gifs/hi.gif">, I'm <a href="https://arsh.dev"> Sanduni Perera </a><i>aka <del>Shashi</i></del></h1>
 <p align="center"><img align="center" src="https://github.com/shashperera/shashperera/assets/40666122/408d9c72-d6b9-42d3-8d57-1cc6b71160f9" width="500"/></p>
 
-👋 Hey, I'm Sanduni Perera, a frontend/full-stack developer based in Helsinki. I've got 5+ years of experience in software engineering, holding an MSc in Information Technology and a BSc(Hons) in Software Engineering. I'm passionate about software development and exploring the intersections of technology with Human and Animal Health. Recently, I've been updating my skills, writing articles, and I'm all about continuous improvement.
+👋 Hey, I'm Sanduni Perera, a frontend/full-stack developer based in Helsinki. I've got 3+ years of experience in software engineering, holding an MSc in Information Technology and a BSc(Hons) in Software Engineering. I'm passionate about software development and exploring the intersections of technology with Human Health. Recently, I've been updating my skills, writing articles, and I'm all about continuous improvement.
 Open to new opportunities and collaborations. Let's connect on GitHub and explore how we can use tech to solve real-world problems and innovate together! 👩‍💻🚀
 
 
